@@ -37,17 +37,6 @@ Building modern web applications and continuously learning to stay ahead in the 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrsaxena01&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsaxena01&layout=compact&theme=dark)
-
-</div>
-
----
 
 ## 💬 Get In Touch
 
