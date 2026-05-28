@@ -10,6 +10,8 @@ Building modern web applications and continuously learning to stay ahead in the 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=B.Tech+Student+%F0%9F%8E%93;MERN+Stack+Developer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
+---
+
 ## 🛠️ Tech Stack
 
 **Frontend Development**  
